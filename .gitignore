@@ -1,0 +1,14 @@
+# Ignore items in the data folder
+incomeMA/
+incomeMAShape/
+roofprintsBoston/
+roofprintsMilton/
+roofprintsNewton/
+supplyCurve/
+copies/
+
+
+# Ignore individual .csv files
+*.csv
+
+
