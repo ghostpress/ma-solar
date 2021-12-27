@@ -1,12 +1,21 @@
 # Policy Analysis of Rooftop Solar Incentives in MA  
 
-Code written for CAS EE 508: Data Science for Conservation Decisions, Boston University fall 2021.  
+Code written for CAS EE 508: Data Science for Conservation Decisions, Boston University fall 2021.
+
+## Background
+
+This analysis attempts to determine which incentives are more effective in encouraging the adoption of rooftop solar PV systems in Massachusetts, and specifically 4 study locations: Newton, West Roxbury, Hyde Park, and Milton. 
 
 ## Data  
 
+- Existing PV installations in MA, provided by the [Massachusetts Clean Energy Center](https://www.masscec.com/public-records-requests), which includes all solar PV systems fully registered in the Production Tracking System (PTS), current as of May 2021. From these data, I extracted the PV systems that were listed as: residential; multi-family residential; mixed-use (commercial & residential); and that were not third-party owned in the study locations.
+
+- Boundaries of MA by town and zipcode, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-zip-codes-5-digit-from-here-navteq). From these, I extracted the zipcodes included in the study locations.
+
 - Roofprints of MA buildings larger than 150 sq ft, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-building-structures-2-d): MassGIS (Bureau of Geographic Information), Commonwealth of Massachusetts EOTSS, accessed 12/09/2021.  
 
-- Solar curve supply map, provided by [NREL](https://www.nrel.gov/gis/solar-supply-curves.html).
+- Solar curve supply map, provided by [NREL](https://www.nrel.gov/gis/solar-supply-curves.html): Cole, Wesley, J. Vincent Carag, Maxwell Brown, Patrick Brown, Stuart Cohen, Kelly Eurek,
+Will Frazier, Pieter Gagnon, Nick Grue, Jonathan Ho, Anthony Lopez, Trieu Mai, Matthew Mowers, Caitlin Murphy, Brian Sergi, Dan Steinberg, and Travis Williams. 2021. 2021 Standard Scenarios Report: A U.S. Electricity Sector Outlook. Golden, CO: National Renewable Energy Laboratory. NREL/TP-6A40-80641. https://www.nrel.gov/docs/fy22osti/80641.pdf.
 
 - Average cost of residential and commercial sollar installations in 2020 (Q1), provided by NREL: Feldman, David, Vignesh Ramasamy, Ran Fu, Ashwin Ramdas, Jal Desai, and Robert Margolis. “US Solar Photovoltaic System and Energy Storage Cost Benchmark: Q1 2020.” Technical Report. National Renewable Energy Laboratory, January 2021. https://www.nrel.gov/docs/fy21osti/77324.pdf.
 
