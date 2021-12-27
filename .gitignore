@@ -1,6 +1,8 @@
 # Ignore items in the data folder
+existingPV/
 incomeMA/
 incomeMAShape/
+MAshape/
 roofprintsBoston/
 roofprintsMilton/
 roofprintsNewton/
@@ -9,6 +11,13 @@ copies/
 
 
 # Ignore individual .csv files
-*.csv
+PVCosts2020.csv
+supplyCurve.csv
+taxByIncome2019.csv
+
+
+# Ignore jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
 
 
