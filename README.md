@@ -14,8 +14,7 @@ This analysis attempts to determine which incentives are more effective in encou
 
 - Roofprints of MA buildings larger than 150 sq ft, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-building-structures-2-d): MassGIS (Bureau of Geographic Information), Commonwealth of Massachusetts EOTSS, accessed 12/09/2021.  
 
-- Solar curve supply map, provided by [NREL](https://www.nrel.gov/gis/solar-supply-curves.html): Cole, Wesley, J. Vincent Carag, Maxwell Brown, Patrick Brown, Stuart Cohen, Kelly Eurek,
-Will Frazier, Pieter Gagnon, Nick Grue, Jonathan Ho, Anthony Lopez, Trieu Mai, Matthew Mowers, Caitlin Murphy, Brian Sergi, Dan Steinberg, and Travis Williams. 2021. 2021 Standard Scenarios Report: A U.S. Electricity Sector Outlook. Golden, CO: National Renewable Energy Laboratory. NREL/TP-6A40-80641. https://www.nrel.gov/docs/fy22osti/80641.pdf.
+- Geospatial solar irradiance data (in Global Horizontal Irradiation, or GHI) for the USA, provided by [SolarGIS](https://solargis.com/maps-and-gis-data/download/usa): © 2020 The World Bank, Source: Global Solar Atlas 2.0, Solar resource data: Solargis.
 
 - Average cost of residential and commercial sollar installations in 2020 (Q1), provided by NREL: Feldman, David, Vignesh Ramasamy, Ran Fu, Ashwin Ramdas, Jal Desai, and Robert Margolis. “US Solar Photovoltaic System and Energy Storage Cost Benchmark: Q1 2020.” Technical Report. National Renewable Energy Laboratory, January 2021. https://www.nrel.gov/docs/fy21osti/77324.pdf.
 
