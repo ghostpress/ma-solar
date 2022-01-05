@@ -16,6 +16,7 @@ copies/
 PVCosts2020.csv
 supplyCurve.csv
 taxByIncome2019.csv
+blockGroupsTEMP.csv
 
 
 # Ignore jupyter notebook checkpoints
