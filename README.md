@@ -16,11 +16,13 @@ This analysis attempts to determine which incentives are more effective in encou
 
 - Geospatial solar irradiance data (in Global Horizontal Irradiation, or GHI) for the USA, provided by [SolarGIS](https://solargis.com/maps-and-gis-data/download/usa): © 2020 The World Bank, Source: Global Solar Atlas 2.0, Solar resource data: Solargis.
 
-- Average cost of residential and commercial sollar installations in 2020 (Q1), provided by NREL: Feldman, David, Vignesh Ramasamy, Ran Fu, Ashwin Ramdas, Jal Desai, and Robert Margolis. “US Solar Photovoltaic System and Energy Storage Cost Benchmark: Q1 2020.” Technical Report. National Renewable Energy Laboratory, January 2021. https://www.nrel.gov/docs/fy21osti/77324.pdf.
-
-- 2019 federal tax payments in MA by annual income, provided by the [IRS](https://www.irs.gov/statistics/soi-tax-stats-historic-table-2).
-
 - Household income data by MA block group (2015-2019), provided by [NHGIS](https://data2.nhgis.org/): Steven Manson, Jonathan Schroeder, David Van Riper, Tracy Kugler, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 16.0 [dataset]. Minneapolis, MN: IPUMS. 2021. http://doi.org/10.18128/D050.V16.0.
+
+- 2019 federal tax brackets by annual income, provided by [CreditKarma](https://www.creditkarma.com/tax/i/2019-tax-brackets-things-to-know): Pimplaskar, Evelyn. “2019 Tax Brackets: Things to Know: Credit Karma Tax®.” Credit Karma, 7 Dec. 2020, https://www.creditkarma.com/tax/i/2019-tax-brackets-things-to-know. 
+
+- Massachusetts income tax rate, provided by the [Tax Foundation](https://taxfoundation.org/state/massachusetts/):“Massachusetts Tax Rates & Rankings: MA State Taxes.” Tax Foundation, Tax Foundation, https://taxfoundation.org/state/massachusetts/.
+
+- Average cost of residential and commercial solar installations in 2020 (Q1), provided by NREL: Feldman, David, Vignesh Ramasamy, Ran Fu, Ashwin Ramdas, Jal Desai, and Robert Margolis. “US Solar Photovoltaic System and Energy Storage Cost Benchmark: Q1 2020.” Technical Report. National Renewable Energy Laboratory, January 2021. https://www.nrel.gov/docs/fy21osti/77324.pdf.
 
 - eGRID CO2-equivalent emissions estimates for MA electricity generated, provided by the [EPA](https://www.epa.gov/sites/default/files/2015-10/documents/egrid2012_summarytables_0.pdf): United States Environmental Protection Agency (EPA). 2021. “Emissions & Generation Resource Integrated Database (eGRID), 2019” Washington, DC: Office of Atmospheric Programs, Clean Air Markets Division. Available from EPA’s eGRID web site: https://www.epa.gov/egrid.
 
