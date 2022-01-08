@@ -1,5 +1,6 @@
 # Ignore items in the data folder
 existingPV/
+incomeALL/
 incomeMA/
 incomeMAShape/
 intersections/
@@ -8,6 +9,7 @@ MAshape/
 roofprintsBoston/
 roofprintsMilton/
 roofprintsNewton/
+roofsALL/
 supplyCurve/
 copies/
 
