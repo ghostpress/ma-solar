@@ -1,4 +1,5 @@
 # Ignore items in the data folder
+analysisReady/
 existingPV/
 incomeALL/
 incomeMA/
