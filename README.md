@@ -20,11 +20,13 @@ This analysis attempts to determine which incentives are more effective in encou
 
 - 2019 federal tax brackets by annual income, provided by [CreditKarma](https://www.creditkarma.com/tax/i/2019-tax-brackets-things-to-know): Pimplaskar, Evelyn. “2019 Tax Brackets: Things to Know: Credit Karma Tax®.” Credit Karma, 7 Dec. 2020, https://www.creditkarma.com/tax/i/2019-tax-brackets-things-to-know. 
 
-- Massachusetts income tax rate, provided by the [Tax Foundation](https://taxfoundation.org/state/massachusetts/):“Massachusetts Tax Rates & Rankings: MA State Taxes.” Tax Foundation, Tax Foundation, https://taxfoundation.org/state/massachusetts/.
+- Massachusetts income tax rate, provided by the [Tax Foundation](https://taxfoundation.org/state/massachusetts/): “Massachusetts Tax Rates & Rankings: MA State Taxes.” Tax Foundation, Tax Foundation, https://taxfoundation.org/state/massachusetts/.
+
+- eGRID CO2-equivalent emissions estimates for MA electricity generated, provided by the [EPA](https://www.epa.gov/sites/default/files/2015-10/documents/egrid2012_summarytables_0.pdf): United States Environmental Protection Agency (EPA). 2021. “Emissions & Generation Resource Integrated Database (eGRID), 2019” Washington, DC: Office of Atmospheric Programs, Clean Air Markets Division. Available from EPA’s eGRID web site: https://www.epa.gov/egrid.
 
 - Average cost of residential and commercial solar installations in 2020 (Q1), provided by NREL: Feldman, David, Vignesh Ramasamy, Ran Fu, Ashwin Ramdas, Jal Desai, and Robert Margolis. “US Solar Photovoltaic System and Energy Storage Cost Benchmark: Q1 2020.” Technical Report. National Renewable Energy Laboratory, January 2021. https://www.nrel.gov/docs/fy21osti/77324.pdf.
 
-- eGRID CO2-equivalent emissions estimates for MA electricity generated, provided by the [EPA](https://www.epa.gov/sites/default/files/2015-10/documents/egrid2012_summarytables_0.pdf): United States Environmental Protection Agency (EPA). 2021. “Emissions & Generation Resource Integrated Database (eGRID), 2019” Washington, DC: Office of Atmospheric Programs, Clean Air Markets Division. Available from EPA’s eGRID web site: https://www.epa.gov/egrid.
+- Existing incentive programs for residential rooftop PV adoption in Massachusetts, provided by [MASSCEC](https://www.masscec.com/solar-incentives-and-programs): “Incentives and Programs.” MASSCEC, Massachusetts Clean Energy Center, 14 July 2021, https://www.masscec.com/solar-incentives-and-programs. 
 
 
 ## Use Instructions  
