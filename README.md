@@ -26,7 +26,12 @@ This analysis attempts to determine which incentives are more effective in encou
 
 - Average cost of residential and commercial solar installations in 2020 (Q1), provided by NREL: Feldman, David, Vignesh Ramasamy, Ran Fu, Ashwin Ramdas, Jal Desai, and Robert Margolis. “US Solar Photovoltaic System and Energy Storage Cost Benchmark: Q1 2020.” Technical Report. National Renewable Energy Laboratory, January 2021. https://www.nrel.gov/docs/fy21osti/77324.pdf.
 
-- Existing incentive programs for residential rooftop PV adoption in Massachusetts, provided by [MASSCEC](https://www.masscec.com/solar-incentives-and-programs): “Incentives and Programs.” MASSCEC, Massachusetts Clean Energy Center, 14 July 2021, https://www.masscec.com/solar-incentives-and-programs. 
+- Existing incentive programs for residential rooftop PV adoption in Massachusetts, provided by [MASSCEC](https://www.masscec.com/solar-incentives-and-programs): “Incentives and Programs.” MASSCEC, Massachusetts Clean Energy Center, 14 July 2021, https://www.masscec.com/solar-incentives-and-programs.
+
+- Solar Massachusetts Renewable Target (SMART) Program incentive details, provided by the Commonwealth of Massachusetts and Eversource:
+  - “SMART Incentive Program.” Eversource, Eversource, https://www.eversource.com/content/ema-c/residential/save-money-energy/explore-alternatives/learn-about-solar-energy/smart-program.
+  - “Capacity Block, Base Compensation Rate, and Compensation Rate Adder Guideline.” | Mass.gov, Commonwealth of Massachusetts, https://www.mass.gov/doc/capacity-block-base-compensation-rate-and-compensation-rate-adder-guideline-2.
+  - United States, Congress, Executive Office of Energy and Environmental Affairs. Guideline Regarding Low Income Generation Units, 225 CMR 20.00, p. 2. SOLAR MASSACHUSETTS RENEWABLE TARGET PROGRAM. 
 
 
 ## Use Instructions  
