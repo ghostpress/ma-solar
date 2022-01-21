@@ -6,6 +6,7 @@ incomeMA/
 incomeMAShape/
 intersections/
 irradiation/
+irradiation2/
 MAshape/
 roofprintsBoston/
 roofprintsMilton/
@@ -24,6 +25,9 @@ blockGroupsTEMP.csv
 
 # Ignore jupyter notebook checkpoints
 *.ipynb_checkpoints/
+
+# Ignore scrap file
+code/scrap.ipynb
 
 
 
