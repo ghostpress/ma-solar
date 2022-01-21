@@ -14,7 +14,7 @@ This analysis attempts to determine which incentives are more effective in encou
 
 - Roofprints of MA buildings larger than 150 sq ft, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-building-structures-2-d): MassGIS (Bureau of Geographic Information), Commonwealth of Massachusetts EOTSS, accessed 12/09/2021.  
 
-- Geospatial solar irradiance data (in Global Horizontal Irradiation, or GHI) for the USA, provided by [SolarGIS](https://solargis.com/maps-and-gis-data/download/usa): © 2020 The World Bank, Source: Global Solar Atlas 2.0, Solar resource data: Solargis.
+- Photovoltaic Electricity Potential data for the USA, provided by [SolarGIS](https://solargis.com/maps-and-gis-data/download/usa) (PVOUT, map 1): © 2020 The World Bank, Source: Global Solar Atlas 2.0, Solar resource data: Solargis.
 
 - Household income data by MA block group (2015-2019), provided by [NHGIS](https://data2.nhgis.org/): Steven Manson, Jonathan Schroeder, David Van Riper, Tracy Kugler, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 16.0 [dataset]. Minneapolis, MN: IPUMS. 2021. http://doi.org/10.18128/D050.V16.0.
 
@@ -35,7 +35,9 @@ This analysis attempts to determine which incentives are more effective in encou
 
 ## Other Sources
 
-- Electricity use in homes, provided by the [US Energy Information Administration (EIA)](https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php): “Use of Energy Explained: Energy Use in Homes.” U.S. Energy Information Administration (EIA), EIA, 9 May 2019, https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php. 
+- Electricity use in homes, provided by the [US Energy Information Administration (EIA)](https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php): “Use of Energy Explained: Energy Use in Homes.” U.S. Energy Information Administration (EIA), EIA, 9 May 2019, https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php.
+
+- Estimate of % energy loss (through heat, soil, shading, etc.), provided by NREL's (PVWatts Calculator)[https://pvwatts.nrel.gov/pvwatts.php]: Dobos, Aron, P. “PVWatts Version 5 Manual.” Technical Report. National Renewable Energy Laboratory, September 2014. https://www.nrel.gov/docs/fy14osti/62641.pdf.
 
 
 ## Use Instructions  
