@@ -8,13 +8,17 @@ This analysis attempts to determine which incentives are more effective in encou
 
 ## Data  
 
-- Existing PV installations in MA, provided by the [Massachusetts Clean Energy Center](https://www.masscec.com/public-records-requests), which includes all solar PV systems fully registered in the Production Tracking System (PTS), current as of May 2021. From these data, I extracted the PV systems that were listed as: residential; multi-family residential; mixed-use (commercial & residential); and that were not third-party owned in the study locations.
+- Existing PV installations in MA, provided by the [Massachusetts Clean Energy Center](https://www.masscec.com/public-records-requests), which includes all solar PV systems fully registered in the Production Tracking System (PTS), current as of May 2021. From these data, I extracted the PV systems that were listed as: residential; multi-family residential; mixed-use (commercial & residential); and that were not third-party owned in the study locations: “PV in PTS Public Records Request.” Massachusetts Clean Energy Center, May 2021. https://www.masscec.com/public-records-requests.
 
-- Boundaries of MA by town and zipcode, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-zip-codes-5-digit-from-here-navteq). From these, I extracted the zipcodes included in the study locations.
+- Boundaries of MA by town and zipcode, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-zip-codes-5-digit-from-here-navteq). From these, I extracted the zipcodes included in the study locations: MassGIS (Bureau of Geographic Information), Commonwealth of Massachusetts EOTSS, accessed 12/09/2021.
 
 - Roofprints of MA buildings larger than 150 sq ft, provided by [MassGIS](https://www.mass.gov/info-details/massgis-data-building-structures-2-d): MassGIS (Bureau of Geographic Information), Commonwealth of Massachusetts EOTSS, accessed 12/09/2021.  
 
 - Photovoltaic Electricity Potential data for the USA, provided by [SolarGIS](https://solargis.com/maps-and-gis-data/download/usa) (PVOUT, map 1): © 2020 The World Bank, Source: Global Solar Atlas 2.0, Solar resource data: Solargis.
+
+- ShopSolarKits. “300-Watt Solar Panels: Everything You Need to Know,” December 14, 2021. https://shopsolarkits.com/blogs/learning-center/300-watt-solar-panels.
+
+- climatemps. “Sunshine & Daylight Hours in Boston, Massachusetts, USA.” Accessed January 8, 2022. https://www.boston.climatemps.com/sunlight.php.
 
 - Household income data by MA block group (2015-2019), provided by [NHGIS](https://data2.nhgis.org/): Steven Manson, Jonathan Schroeder, David Van Riper, Tracy Kugler, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 16.0 [dataset]. Minneapolis, MN: IPUMS. 2021. http://doi.org/10.18128/D050.V16.0.
 
@@ -35,9 +39,29 @@ This analysis attempts to determine which incentives are more effective in encou
 
 ## Other Sources
 
-- Electricity use in homes, provided by the [US Energy Information Administration (EIA)](https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php): “Use of Energy Explained: Energy Use in Homes.” U.S. Energy Information Administration (EIA), EIA, 9 May 2019, https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php.
+-  Borenstein, Lucas, and Lucas Davis W. “The Distributional Effects of US Clean Energy Tax Credits.” Tax Policy and the Economy 30, no. 1 (2016). https://www.journals.uchicago.edu/doi/full/10.1086/685597.
 
-- Estimate of % energy loss (through heat, soil, shading, etc.), provided by NREL's (PVWatts Calculator)[https://pvwatts.nrel.gov/pvwatts.php]: Dobos, Aron, P. “PVWatts Version 5 Manual.” Technical Report. National Renewable Energy Laboratory, September 2014. https://www.nrel.gov/docs/fy14osti/62641.pdf.
+- Barbose, Galen, L., Naim Darghouth R., Hoen Ben, and Ryan Wiser H. “Income Trends of Residential PV Adopters: An Analysis of Household-Level Income Estimates.” Electricity Markets & Policy. Berkeley Lab, April 2018. https://emp.lbl.gov/publications/income-trends-residential-pv-adopters
+
+- Tong, James, and Alison Mickey. “How to Turn Solar ‘Considerers’ Into Solar Adopters.” GreenTech Media (blog), June 20, 2016. https://www.greentechmedia.com/articles/read/How-to-Turn-Solar-Considerers-Into-Solar-Adopters.
+
+- Initiative for Energy Justice. “Section 1: Defining Energy Justice: Connections to Environmental Justice, Climate Justice, and the Just Transition,” December 2019. https://iejusa.org/section-1-defining-energy-justice/.
+
+- Katie Luu, Scott Burger. “The Economics of Rooftop Solar.” MIT Energy Initiatve. Accessed January 30, 2022. https://energy.mit.edu/podcast/the-economics-of-rooftop-solar/.
+
+- Smith, Aidan, Danilo Morales, and Jen Stevenson Zepeda. Exploring Environmental Justice: Energy Justice in the Boston Area. Interview by Gabriela Boscio Santos and Neha Chinwalla. Zoom, April 21, 2021. https://www.youtube.com/watch?v=prKBKUhYcoA.
+
+- Sommer, Lauren. “What Losing Build Back Better Means for Climate Change.” NPR, December 20, 2021. https://www.npr.org/2021/12/20/1065695953/build-back-better-climate-change.
+
+- Baker, Charles, D., Karyn Polito E., Kathleen Theoharides A., and Martin Suuberg. “Statewide Greenhouse Gas Emissions Level: 1990 Baseline Update.” MGL Chapter 21N, Section 3. Commonwealth of Massachusetts Executive Ofice of Energy & Environmental Affairs, Department of Environmental Protection, May 2021. https://www.mass.gov/doc/statewide-greenhouse-gas-emissions-level-proposed-1990-baseline-update-including-appendices-a-b/download.
+
+- United States Environmental Protection Agency. “Greenhouse Gas Emissions from a Typical Passenger Vehicle,” March 2018. https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle#:~:text=typical%20passenger%20vehicle%3F-,A%20typical%20passenger%20vehicle%20emits%20about%204.6%20metric%20tons%20of,8%2C887%20grams%20of%20CO2.
+
+- AN ACT RELATIVE TO GREEN COMMUNITIES, Pub. L. No. Chapter 169, § 138. Accessed January 31, 2022. https://malegislature.gov/laws/sessionlaws/acts/2008/chapter169.
+
+- EnergySage Local Data. “Community Solar in Massachusetts.” Accessed January 31, 2022. https://www.energysage.com/local-data/community-solar/ma/.
+
+- Dong, Changgui, and Benjamin Sigrin. “Using Willingness to Pay to Forecast the Adoption of Solar Photovoltaics: A ‘Parameterization + Calibration’ Approach.” Energy Policy 129, no. June 2019: 100–110. Accessed January 29, 2022. https://doi.org/10.1016/j.enpol.2019.02.017. 
 
 
 ## Use Instructions  
