@@ -2,6 +2,8 @@
 
 Code written for CAS EE 508: Data Science for Conservation Decisions, Boston University fall 2021.
 
+**Note of limitations of work** (as of May 2022): As I learned more about spatial statistics and modeling more generally, I have realized that this work is incomplete. In particular, I did not deal adequately with the change of support problem, specifically for joining the rooftop PV and income data. I have also since discovered limits to the American Community Survey (ACS) census income data, which are described in more detail [here](https://www.census.gov/content/dam/Census/library/publications/2009/acs/ACSResearch.pdf)(US Census Bureau, 2009). I hope to return to this project at a later date to tackle it in a more statistically rigorous way. For now, please keep in mind these limitations.
+
 ## Background
 
 This analysis attempts to determine which incentives are more effective in encouraging the adoption of rooftop solar PV systems in Massachusetts, and specifically 4 study locations: Newton, West Roxbury, Hyde Park, and Milton. 
